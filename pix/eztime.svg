@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="eztime.svg"
+   inkscape:export-filename="eztime.png"
+   inkscape:export-xdpi="138.45993"
+   inkscape:export-ydpi="138.45993"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.43217508"
+     inkscape:cx="684.90761"
+     inkscape:cy="535.66254"
+     inkscape:window-width="1632"
+     inkscape:window-height="822"
+     inkscape:window-x="388"
+     inkscape:window-y="312"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient175"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#a69c1a;stop-opacity:0.38490567;"
+         offset="0"
+         id="stop174" />
+      <stop
+         style="stop-color:#8b8db7;stop-opacity:1;"
+         offset="1"
+         id="stop175" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#1a29a6;stop-opacity:0.95094341;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#8b8db7;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="2.4488525"
+       y1="150.29836"
+       x2="298.7601"
+       y2="150.29836"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-351.50781,-80.233002)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient175"
+       id="linearGradient159-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.70292658,0,0,0.690366,-286.83744,-68.616587)"
+       x1="2.4488525"
+       y1="150.29836"
+       x2="298.7601"
+       y2="150.29836" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter160-0"
+       x="-0.025885951"
+       y="-0.026302576"
+       width="1.0517719"
+       height="1.0526052">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2465233"
+         id="feGaussianBlur160-7" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:url(#linearGradient2);stroke-width:0.252559"
+       id="path1"
+       cx="-200.90334"
+       cy="70.065361"
+       rx="148.15562"
+       ry="148.46173"
+       transform="rotate(-115.83199)" />
+    <ellipse
+       style="mix-blend-mode:normal;fill:url(#linearGradient159-9);stroke-width:0.175937;filter:url(#filter160-0)"
+       id="path1-5-7"
+       cx="-180.97356"
+       cy="35.144299"
+       rx="104.14252"
+       ry="102.49293"
+       transform="matrix(-0.20808471,-0.43838495,0.43765167,-0.21608686,17.670554,156.71889)" />
+    <circle
+       id="path18"
+       style="fill:#d6a82e;stroke:#000000;stroke-width:0.264583"
+       cx="175.093"
+       cy="108.36176"
+       r="0.20386702" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:Iosevka;-inkscape-font-specification:Iosevka;opacity:0.889175;fill:#eff125;fill-opacity:1;stroke-width:0.264583"
+       x="72.853378"
+       y="257.74179"
+       id="text159"><tspan
+         sodipodi:role="line"
+         id="tspan159"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:Iosevka;-inkscape-font-specification:Iosevka;fill:#eff125;fill-opacity:1;stroke-width:0.264583"
+         x="72.853378"
+         y="257.74179">~&gt;EzTime</tspan></text>
+  </g>
+</svg>
