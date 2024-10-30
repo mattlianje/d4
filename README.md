@@ -1,6 +1,6 @@
 # d4s
 
-*_d4s_* is a collection of OSS libraries for writing simple, powerful, and type-safe data transformations in Scala. The libraries are zero-dependency and can be dropped into your project like header files. *_d4s_* core principles are:
+**_d4s_** is a collection of OSS libraries for writing simple, powerful, and type-safe data transformations in Scala. The libraries are zero-dependency and can be dropped into your project like header files. **_d4s_** core principles are:
 
 1. Impossible states should be unrepresentable
 2. Functions should be referentially transparent
@@ -10,7 +10,7 @@ The above:
 - De-bloats your project dependencies (drop in _d4s_ libs like header files)
 - Creates elegant programs via functional composition 
 
-### *_d4s_* Modules
+### **_d4s_** Modules
 <div align="center">
 
 <div style="display: inline-block; text-align: center; margin: 20px 20px;">
