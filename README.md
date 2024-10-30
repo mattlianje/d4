@@ -7,7 +7,7 @@
 
 The above:
 - Eliminates an entire class of bugs
-- De-bloats your project dependencies (drop in _d4s_ libs like header files)
+- De-bloats your project dependencies
 - Creates elegant programs via functional composition 
 
 ### **_d4s_** Modules
