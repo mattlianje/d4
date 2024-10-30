@@ -16,18 +16,20 @@ The above:
 
 <div style="display: inline-block; text-align: center; margin: 20px 20px;">
   <a href="https://github.com/mattlianje/d4s/tree/master/etl4s">
-    <img src="pix/etl4s.png" alt="etl4s" width="160" height="160" style="margin-bottom: 10px;"/>
+    <img src="pix/etl4s.png" alt="etl4s" width="160" height="160"/>
   </a>
   <br>
   <sub>etl4s</sub>
+  <br>
 </div>
 
 <div style="display: inline-block; text-align: center; margin: 20px 20px;">
   <a href="https://github.com/mattlianje/d4s/tree/master/eztime">
-    <img src="pix/eztime.png" alt="eztime" width="160" height="160" style="margin-bottom: 10px;"/>
+    <img src="pix/eztime.png" alt="eztime" width="160" height="160"/>
   </a>
   <br>
   <sub>eztime</sub>
+  <br>
 </div>
 
 </div>
