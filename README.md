@@ -1,4 +1,4 @@
-# d4s
+# 🇨🇦d4s
 
 **_d4s_** is a collection of Scala libraries for writing simple, powerful, and type-safe data transformations. The libraries are zero-dependency and can be dropped into your project like header files. **_d4s'_** core principles are:
 
