@@ -7,8 +7,8 @@
 
 The above:
 - Eliminates an entire class of bugs
-- De-bloats your project dependencies
-- Creates elegant programs via functional composition 
+- Creates elegant programs via functional composition
+- Helps you fearlressly refactor typesafe code
 
 ### **_d4s_** Modules
 <div align="center">
