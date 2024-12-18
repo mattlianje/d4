@@ -16,7 +16,7 @@ writing beautiful, type-safe dataflows.
   <a href="https://github.com/mattlianje/d4s/tree/master/eztime">
     <img src="pix/eztime.png" alt="eztime" width="160" height="160"/>
   </a>
-  <p><strong>eztime</strong>: time, simplified</p>
+  <p><strong>⚡ eztime</strong>: time, simplified</p>
 </div>
 
 </div>
