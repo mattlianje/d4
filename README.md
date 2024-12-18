@@ -9,6 +9,7 @@ writing beautiful ✨🧱, type-safe data transformations.
   <a href="https://github.com/mattlianje/d4s/tree/master/etl4s">
     <img src="pix/etl4s.png" alt="etl4s" width="160" height="160"/>
   </a>
+  <p><strong>etl4s</strong> Type-safe, white-board style ETL</p>
 </div>
 
 <div style="display: inline-block; text-align: center; margin: 20px 20px;">
