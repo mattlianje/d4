@@ -16,7 +16,7 @@ writing beautiful ✨🧱, type-safe data transformations.
   <a href="https://github.com/mattlianje/d4s/tree/master/eztime">
     <img src="pix/eztime.png" alt="eztime" width="160" height="160"/>
   </a>
-  <p><strong>eztime</strong>: time - made simple</p>
+  <p><strong>eztime</strong>: time... made simple</p>
 </div>
 
 </div>
