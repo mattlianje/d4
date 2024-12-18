@@ -1,6 +1,7 @@
 # d4s
 
-**_d4s_** is a collection of zero-dependency, single file Scala libraries for writing beautiful, type-safe data transformations.
+**_d4s_** is a collection of zero-dependency, single file Scala libraries. Each library is a building block for 
+writing beautiful ✨🧱, type-safe data transformations.
 ### **_d4s_** Modules
 <div align="center">
 
