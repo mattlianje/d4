@@ -1,33 +1,23 @@
 # d4s
 
-_d4s_ is a collection of OSS libraries for writing simple, powerful, and type-safe data transformations in Scala. _d4s'_ core principles are:
+**_d4s_** is a collection of zero-dependency, single file Scala libraries. Each library is a simple building block for 
+writing beautiful, type-safe dataflows.
+### **_d4s_** Modules
 
-1. Libraries should be lightweight, & zero-dependency
-2. Impossible states should be unrepresentable
-3. Functions should be referentially transparent
-
-The above:
-- Eliminates an entire class of bugs
-- De-bloats your project dependencies (drop in _d4s_ libs like header files)
-- Creates elegant programs via functional composition 
-
-### _d4s_ Modules
 <div align="center">
 
-<div style="display: inline-block; text-align: center; margin: 20px 10px;">
-  <a href="https://github.com/mattlianje/d4s/tree/master/etl4s">
-    <img src="pix/etl4s.png" alt="etl4s" width="160" height="160" style="margin-bottom: 10px;"/>
+<div style="display: inline-block; text-align: center; margin: 20px 20px;">
+  <a href="https://github.com/mattlianje/etl4s/tree/master">
+    <img src="pix/etl4s.png" alt="etl4s" width="160" height="160"/>
   </a>
-  <br>
-  <sub>etl4s</sub>
+  <p><strong>etl4s</strong>: whiteboard etl</p>
 </div>
 
-<div style="display: inline-block; text-align: center; margin: 20px 10px;">
+<div style="display: inline-block; text-align: center; margin: 20px 20px;">
   <a href="https://github.com/mattlianje/d4s/tree/master/eztime">
-    <img src="pix/eztime.png" alt="eztime" width="160" height="160" style="margin-bottom: 10px;"/>
+    <img src="pix/eztime.png" alt="eztime" width="160" height="160"/>
   </a>
-  <br>
-  <sub>eztime</sub>
+  <p><strong>eztime</strong>: time, simplified</p>
 </div>
 
 <div style="display: inline-block; text-align: center; margin: 20px 10px;">
