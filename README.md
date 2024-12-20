@@ -66,3 +66,22 @@ writing beautiful, type-safe dataflows.
   </div>
 </div>
 </div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
+  <a href="https://github.com/mattlianje/etl4s/tree/master" style="text-align: center; width: 180px;">
+    <img src="pix/etl4s.png" alt="etl4s" width="160" height="160"/>
+    <p><strong>etl4s</strong>: whiteboard etl</p>
+  </a>
+  <a href="https://github.com/mattlianje/d4s/tree/master/eztime" style="text-align: center; width: 180px;">
+    <img src="pix/eztime.png" alt="eztime" width="160" height="160"/>
+    <p><strong>eztime</strong>: time, simplified</p>
+  </a>
+  <a href="https://github.com/mattlianje/d4s/tree/master/eztime" style="text-align: center; width: 180px;">
+    <img src="pix/testd.png" alt="testd" width="160" height="160"/>
+    <p><strong>testd</strong>: pretty, tests</p>
+  </a>
+  <a href="https://github.com/mattlianje/d4s/tree/master/eztime" style="text-align: center; width: 180px;">
+    <img src="pix/pin.png" alt="pin" width="160" height="160"/>
+    <p><strong>pin</strong>: state, reinvented</p>
+  </a>
+</div>
