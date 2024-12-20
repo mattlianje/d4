@@ -31,7 +31,7 @@ writing beautiful, type-safe dataflows.
   <a href="https://github.com/mattlianje/d4s/tree/master/eztime">
     <img src="pix/pin.png" alt="pin" width="160" height="160" style="margin-bottom: 10px;"/>
   </a>
-  <p><strong>testd</strong>: state, reinvented</p>
+  <p><strong>pin</strong>: state, reinvented</p>
 </div>
 
 </div>
