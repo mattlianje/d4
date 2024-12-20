@@ -24,7 +24,7 @@ writing beautiful, type-safe dataflows.
   <a href="https://github.com/mattlianje/d4s/tree/master/eztime">
     <img src="pix/testd.png" alt="testd" width="160" height="160" style="margin-bottom: 10px;"/>
   </a>
-  <p><strong>testd</strong>: pretty, tests</p>
+  <p><strong>testd</strong>: pretty, spark, tests</p>
 </div>
 
 <div style="display: inline-block; text-align: center; margin: 20px 10px;">
