@@ -4,6 +4,7 @@
 writing beautiful, type-safe dataflows.
 ### **_d4s_** Modules
 
+<!--
 <div align="center">
 
 <div style="display: inline-block; text-align: center; margin: 20px 20px;">
@@ -35,6 +36,7 @@ writing beautiful, type-safe dataflows.
 </div>
 
 </div>
+-->
 
 <div align="center">
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 800px; margin: 0 auto;">
