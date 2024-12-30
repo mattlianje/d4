@@ -8,14 +8,14 @@ writing beautiful, type-safe dataflows.
 
 <div style="display: inline-block; text-align: center; margin: 20px 20px;">
   <a href="https://github.com/mattlianje/etl4s/tree/master">
-    <img src="pix/etl4s.png" alt="etl4s" width="160" height="160"/>
+    <img src="https://raw.githubusercontent.com/mattlianje/etl4s/master/pix/etl4s.png" alt="etl4s" width="160" height="160"/>
   </a>
   <p><strong>etl4s</strong>: whiteboard etl</p>
 </div>
 
 <div style="display: inline-block; text-align: center; margin: 20px 20px;">
-  <a href="https://github.com/mattlianje/d4s/tree/master/eztime">
-    <img src="pix/eztime.png" alt="eztime" width="160" height="160"/>
+  <a href="https://github.com/mattlianje/eztime/tree/master">
+    <img src="https://raw.githubusercontent.com/mattlianje/eztime/master/pix/eztime.png" alt="eztime" width="160" height="160"/>
   </a>
   <p><strong>eztime</strong>: time, simplified</p>
 </div>
@@ -28,8 +28,8 @@ writing beautiful, type-safe dataflows.
 </div>
 
 <div style="display: inline-block; text-align: center; margin: 20px 10px;">
-  <a href="https://github.com/mattlianje/d4s/tree/master/eztime">
-    <img src="pix/pin.png" alt="pin" width="160" height="160" style="margin-bottom: 10px;"/>
+  <a href="https://github.com/mattlianje/pin/tree/master">
+    <img src="https://raw.githubusercontent.com/mattlianje/pin/master/pix/pin.png" alt="pin" width="160" height="160" style="margin-bottom: 10px;"/>
   </a>
   <p><strong>pin</strong>: state, reinvented</p>
 </div>
