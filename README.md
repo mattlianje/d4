@@ -8,7 +8,7 @@ writing beautiful, type-safe dataflows.
 
 <div style="display: inline-block; text-align: center; margin: 20px 20px;">
   <a href="https://github.com/mattlianje/etl4s/tree/master">
-    <img src="https://raw.githubusercontent.com/mattlianje/etl4s/master/pix/etl4s.png" alt="etl4s" width="160" height="160"/>
+    <img src="https://raw.githubusercontent.com/mattlianje/etl4s/master/pix/etl4s-logo.png" alt="etl4s" width="160" height="160"/>
   </a>
   <p><strong>etl4s</strong>: whiteboard etl</p>
 </div>
