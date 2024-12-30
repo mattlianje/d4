@@ -21,8 +21,8 @@ writing beautiful, type-safe dataflows.
 </div>
 
 <div style="display: inline-block; text-align: center; margin: 20px 10px;">
-  <a href="https://github.com/mattlianje/d4s/tree/master/eztime">
-    <img src="pix/testd.png" alt="testd" width="160" height="160" style="margin-bottom: 10px;"/>
+  <a href="https://github.com/mattlianje/testd/tree/master/testd">
+    <img src="https://github.com/mattlianje/testd/tree/master/pix/testd.png" alt="testd" width="160" height="160" style="margin-bottom: 10px;"/>
   </a>
   <p><strong>testd</strong>: pretty, spark, tests</p>
 </div>
