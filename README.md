@@ -35,3 +35,7 @@ writing beautiful, type-safe dataflows.
 </div>
 
 </div>
+
+### Inspiration
+- Li Haoyi [ecosystem](https://github.com/com-lihaoyi)
+- Jon Pretty's [soundness](https://github.com/propensive/soundness) logos
