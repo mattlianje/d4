@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="d4s.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.27906239"
+     inkscape:cx="501.67993"
+     inkscape:cy="268.7571"
+     inkscape:window-width="1232"
+     inkscape:window-height="895"
+     inkscape:window-x="915"
+     inkscape:window-y="266"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="164.83769"
+       y="297.42453"
+       width="444.34508"
+       height="193.50512"
+       id="rect1" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f60606;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#af5454;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="1.9234619"
+       y1="150.34985"
+       x2="298.1351"
+       y2="150.34985"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5-7"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <rect
+       x="164.83769"
+       y="297.42453"
+       width="444.34509"
+       height="193.50513"
+       id="rect1-9" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient3);stroke-width:0.251;stroke-dasharray:none"
+       id="path1"
+       cx="150.02928"
+       cy="150.34985"
+       rx="148.10582"
+       ry="148.42641" />
+    <text
+       xml:space="preserve"
+       style="font-size:96.9421px;font-family:Iosevka;-inkscape-font-specification:Iosevka;fill:#f4f3f3;fill-opacity:0.926471;stroke-width:0.689741;stroke-dasharray:none"
+       x="136.83925"
+       y="142.38983"
+       id="text3-3"
+       transform="scale(0.99521688,1.0048061)"><tspan
+         sodipodi:role="line"
+         id="tspan3-7"
+         style="fill:#f4f3f3;fill-opacity:0.926471;stroke-width:0.689741"
+         x="136.83925"
+         y="142.38983" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0286251,0,0,1.2407746,-159.14321,-317.11691)"
+       id="text1"
+       style="font-size:133.333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;white-space:pre;shape-inside:url(#rect1);opacity:1;fill:#fff9fa;fill-opacity:0.983146;stroke-width:0.948661"><tspan
+         x="164.83789"
+         y="417.02352"
+         id="tspan2">d4~&gt;</tspan></text>
+  </g>
+</svg>
