@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="pix/d4s_with_github.png" width="350" alt="d4s logo">
-</p>
-
 # d4s
 
 **_d4s_** is a collection of zero-dependency, single file Scala libraries you can drop into your project like header files. Each library is a simple, powerful building block for 
