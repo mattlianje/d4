@@ -31,7 +31,7 @@ writing beautiful, type-safe dataflows.
   <a href="https://github.com/mattlianje/pin/tree/master">
     <img src="https://raw.githubusercontent.com/mattlianje/pin/master/pix/pin.png" alt="pin" width="160" height="160" style="margin-bottom: 10px;"/>
   </a>
-  <p><strong>pin</strong>: lineage, reinvented</p>
+  <p><strong>pin</strong>: code as doc</p>
 </div>
 
 </div>
