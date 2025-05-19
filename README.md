@@ -1,6 +1,6 @@
 # xyz.matthieucourt
 
-** A collection of zero-dependency, single file libraries you can drop into your project like header files. Each library is a simple, powerful building block for 
+A collection of zero-dependency, single file libraries you can drop into your project like header files. Each library is a simple, powerful building block for 
 writing beautiful, type-safe dataflows.
 
 ### Modules
