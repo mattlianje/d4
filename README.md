@@ -1,8 +1,9 @@
-# d4s
+# xyz.matthieucourt
 
-**_d4s_** is a collection of zero-dependency, single file Scala libraries you can drop into your project like header files. Each library is a simple, powerful building block for 
+** A collection of zero-dependency, single file libraries you can drop into your project like header files. Each library is a simple, powerful building block for 
 writing beautiful, type-safe dataflows.
-### **_d4s_** Modules
+
+### Modules
 
 <div align="center">
 
@@ -35,6 +36,10 @@ writing beautiful, type-safe dataflows.
 </div>
 
 </div>
+
+### Mission Statement
+Give dataflow programmers light-weight, type-safe and privacy respecting building blocks that solve the 80 % problem
+without the 800 % framework
 
 ### Inspiration
 - [Li Haoyi](https://github.com/com-lihaoyi)
