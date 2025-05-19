@@ -1,9 +1,9 @@
-# xyz.matthieucourt
+# d4s
 
 A collection of zero-dependency, single file libraries you can drop into your project like header files. Each library is a simple, powerful building block for 
 writing beautiful, type-safe dataflows.
 
-### Modules
+### _d4s_ Modules
 
 <div align="center">
 
