@@ -1,8 +1,8 @@
-# d4s
+# mcourt.xyz
 
-**_d4s_** is a collection of zero-dependency, single file Scala libraries you can drop into your project like header files. Each library is a simple, powerful building block for 
+**_mcourt.xyz_** is a collection of zero-dependency, single file Scala libraries you can drop into your project like header files. Each library is a simple, powerful building block for 
 writing beautiful, type-safe dataflows.
-### **_d4s_** Modules
+### **_mcourt.xyz_** Modules
 
 <div align="center">
 
