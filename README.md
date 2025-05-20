@@ -3,7 +3,7 @@
 _**d4**_ is a (Scala-focused) collection of zero-dependency, single file libraries you can drop into your project like header files. 
 Each library is a simple, powerful building block for writing beautiful, type-safe dataflows. 
 
-**Goal**: Give programmers simple building blocks to solve 90% of their problems without the 900% frameworks.
+Solve 90% of your problems without 900% frameworks.
 
 ### _d4_ Modules
 
