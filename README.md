@@ -1,4 +1,4 @@
-# d4
+# <img src="pix/d4.png" width="50">d4
 
 _**d4**_ is a (Scala-focused) collection of zero-dependency, single file libraries you can drop into your project like header files. 
 Each library is a simple, powerful building block for writing beautiful, type-safe dataflows. 
