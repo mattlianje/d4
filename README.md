@@ -1,6 +1,10 @@
 # d4
 
-_**d4**_ is a collection of zero-dependency, single file libraries you can drop into your project like header files. Each library is a simple, powerful building block for writing beautiful, type-safe dataflows. **Goal**: Give dataflow programmers light-weight, type-safe and privacy respecting building blocks that solve the 90% problems without the 900% frameworks.
+_**d4**_ is a collection of zero-dependency, single file libraries you can drop into your project like header files. 
+
+Each library is a simple, powerful building block for writing beautiful, type-safe dataflows. 
+
+**Goal**: Give dataflow programmers light-weight, type-safe and privacy respecting building blocks that solve the 90% problems without the 900% frameworks.
 
 ### _d4_ Modules
 
