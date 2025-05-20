@@ -39,7 +39,7 @@ writing beautiful, type-safe dataflows.
   <a href="https://github.com/mattlianje/pin/tree/master">
     <img src="https://raw.githubusercontent.com/mattlianje/pg_pipeline/master/pix/pg_pipeline.png" alt="pin" width="160" height="160" style="margin-bottom: 10px;"/>
   </a>
-  <p><strong>pg_pipeline</strong>: write pipelines in your DB</p>
+  <p><strong>pg_pipeline</strong>: write pipelines inside Postgres</p>
 </div>
 
 </div>
