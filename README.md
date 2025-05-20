@@ -35,6 +35,13 @@ writing beautiful, type-safe dataflows.
   <p><strong>pin</strong>: code as doc</p>
 </div>
 
+<div style="display: inline-block; text-align: center; margin: 20px 10px;">
+  <a href="https://github.com/mattlianje/pin/tree/master">
+    <img src="https://raw.githubusercontent.com/mattlianje/pg_pipeline/master/pix/pg_pipeline.png" alt="pin" width="160" height="160" style="margin-bottom: 10px;"/>
+  </a>
+  <p><strong>pg_pipeline</strong>: write pipelines in your DB</p>
+</div>
+
 </div>
 
 ### Mission Statement
