@@ -1,8 +1,8 @@
 # <img src="pix/d4.png" width="50">  d4
-**Tools for 90% data — without 900% frameworks**
+**Data — made simple**
 
 _**d4**_ is a (Scala-focused) collection of zero-dependency, single file libraries you can drop into your project like header files. 
-Each library is a simple, powerful building block for writing beautiful, type-safe dataflows. 
+Each library is a simple, powerful building block for writing beautiful, type-safe dataflows. 90% problems > 900% frameworks.
 
 ### _d4_ Modules
 
