@@ -27,7 +27,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
   <a href="https://github.com/mattlianje/testd/tree/master">
     <img src="https://raw.githubusercontent.com/mattlianje/testd/master/pix/testd-logo.png" alt="testd" width="160" height="160" style="margin-bottom: 10px;"/>
   </a>
-  <p><strong>testd</strong>: pretty, spark, tests</p>
+  <p><strong>testd</strong>: pretty, tests</p>
 </div>
 
 <div style="display: inline-block; text-align: center; margin: 20px 10px;">
@@ -41,7 +41,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
   <a href="https://github.com/mattlianje/pg_pipeline/tree/master">
     <img src="https://raw.githubusercontent.com/mattlianje/pg_pipeline/master/pix/pg_pipeline.png" alt="pin" width="160" height="160" style="margin-bottom: 10px;"/>
   </a>
-  <p><strong>pg_pipeline</strong>: pipelines inside Postgres</p>
+  <p><strong>pg_pipeline</strong>: pipelines in Postgres</p>
 </div>
 
 </div>
