@@ -1,11 +1,11 @@
-# <img src="pix/d4.png" width="50">  d4
+# <img src="pix/d4.png" width="50">  ATOMIC
 **Data — made simple**
 
-_**atomic**_ is a (Scala-focused) collection of zero-dependency, single file libraries you can drop into your project like header files. 
+_**ATOMIC**_ is a (Scala-focused) collection of zero-dependency, single file libraries you can drop into your project like header files. 
 Each library is a simple, powerful building block for writing beautiful, type-safe dataflows. 
 > Solve 90% problems without 900% frameworks
 
-### _atomic_ Modules
+### _ATOMIC_ Modules
 
 <div align="center">
 
