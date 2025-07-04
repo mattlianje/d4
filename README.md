@@ -50,39 +50,30 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
 
 <div align="center">
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-<a href="https://github.com/mattlianje/etl4s/tree/master">
-<img src="https://raw.githubusercontent.com/mattlianje/etl4s/master/pix/etl4s-logo.png" width="160" height="160"/>
-</a><br/>
-<strong>etl4s</strong>: whiteboard etl
-</div>
+<a href="https://github.com/mattlianje/etl4s/tree/master"><img src="https://raw.githubusercontent.com/mattlianje/etl4s/master/pix/etl4s-logo.png" width="160" height="160"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mattlianje/eztime/tree/master"><img src="https://raw.githubusercontent.com/mattlianje/eztime/master/pix/eztime.png" width="160" height="160"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mattlianje/testd/tree/master"><img src="https://raw.githubusercontent.com/mattlianje/testd/master/pix/testd-logo.png" width="160" height="160"/></a>
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-<a href="https://github.com/mattlianje/eztime/tree/master">
-<img src="https://raw.githubusercontent.com/mattlianje/eztime/master/pix/eztime.png" width="160" height="160"/>
-</a><br/>
-<strong>eztime</strong>: time, simplified
-</div>
+<br/>
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-<a href="https://github.com/mattlianje/testd/tree/master">
-<img src="https://raw.githubusercontent.com/mattlianje/testd/master/pix/testd-logo.png" width="160" height="160"/>
-</a><br/>
-<strong>testd</strong>: pretty, tests
-</div>
+**etl4s**: whiteboard etl
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**eztime**: time, simplified
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**testd**: pretty, tests
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-<a href="https://github.com/mattlianje/pin/tree/master">
-<img src="https://raw.githubusercontent.com/mattlianje/pin/master/pix/pin.png" width="160" height="160"/>
-</a><br/>
-<strong>pin</strong>: code as doc
-</div>
+<br/><br/>
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-<a href="https://github.com/mattlianje/pg_pipeline/tree/master">
-<img src="https://raw.githubusercontent.com/mattlianje/pg_pipeline/master/pix/pg_pipeline.png" width="160" height="160"/>
-</a><br/>
-<strong>pg_pipeline</strong>: pipelines in Postgres
-</div>
+<a href="https://github.com/mattlianje/pin/tree/master"><img src="https://raw.githubusercontent.com/mattlianje/pin/master/pix/pin.png" width="160" height="160"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mattlianje/pg_pipeline/tree/master"><img src="https://raw.githubusercontent.com/mattlianje/pg_pipeline/master/pix/pg_pipeline.png" width="160" height="160"/></a>
+
+<br/>
+
+**pin**: code as doc
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**pg_pipeline**: pipelines in Postgres
 
 </div>
