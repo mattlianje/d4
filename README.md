@@ -48,6 +48,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
 - [Li Haoyi](https://github.com/com-lihaoyi)
 - Jon Pretty's [soundness](https://github.com/propensive/soundness) logos
 
+<!--
 <div align="center">
 
 <a href="https://github.com/mattlianje/etl4s/tree/master"><img src="https://raw.githubusercontent.com/mattlianje/etl4s/master/pix/etl4s-logo.png" width="160" height="160"/></a>
@@ -63,3 +64,4 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
 <a href="https://github.com/mattlianje/pg_pipeline/tree/master"><img src="https://raw.githubusercontent.com/mattlianje/pg_pipeline/master/pix/pg_pipeline.png" width="160" height="160"/></a>
 
 </div>
+-->
