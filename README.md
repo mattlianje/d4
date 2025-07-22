@@ -26,7 +26,14 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
     <a href="https://github.com/mattlianje/testd/tree/master">
       <img src="https://raw.githubusercontent.com/mattlianje/testd/master/pix/testd-logo.png" alt="testd" width="160" height="160"/>
     </a>
-    <p><strong>testd</strong>: pretty, tests</p>
+    <p><strong>testd</strong>: declarative data</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 160px;">
+    <a href="https://github.com/mattlianje/layoutz/tree/master">
+      <img src="https://raw.githubusercontent.com/mattlianje/layoutz/master/pix/layoutz.png" alt="pin" width="160" height="160"/>
+    </a>
+    <p><strong>layoutz</strong>: beautiful CLI</p>
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center; width: 160px;">
