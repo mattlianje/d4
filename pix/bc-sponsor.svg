@@ -26,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.65608413"
-     inkscape:cx="637.87551"
-     inkscape:cy="163.08884"
+     inkscape:zoom="0.50527218"
+     inkscape:cx="616.4994"
+     inkscape:cy="21.770444"
      inkscape:window-width="1504"
      inkscape:window-height="807"
-     inkscape:window-x="88"
-     inkscape:window-y="25"
+     inkscape:window-x="195"
+     inkscape:window-y="69"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -55,40 +55,16 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:Iosevka;-inkscape-font-specification:Iosevka;white-space:pre;shape-inside:url(#rect4);display:inline;opacity:0.235405;fill:#e80003;fill-opacity:0.629259;stroke:#000000;stroke-width:0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.4015px;font-family:Avenir;-inkscape-font-specification:Avenir;opacity:0.986817;fill:#5b5b5b;fill-opacity:1;stroke:#000000;stroke-width:0"
-       x="71.614822"
-       y="38.011803"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.768px;font-family:Avenir;-inkscape-font-specification:Avenir;opacity:0.986817;fill:#5b5b5b;fill-opacity:1;stroke:#000000;stroke-width:0"
+       x="65.764191"
+       y="45.255554"
        id="text5"
-       transform="scale(1.0216748,0.97878507)"><tspan
+       transform="scale(0.99874038,1.0012612)"><tspan
          sodipodi:role="line"
          id="tspan5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#5b5b5b;fill-opacity:1;stroke-width:0"
-         x="71.614822"
-         y="38.011803">bit complete</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.98199px;font-family:Avenir;-inkscape-font-specification:Avenir;opacity:1;fill:#403939;fill-opacity:1;stroke:#000000;stroke-width:0"
-       x="74.070236"
-       y="50.620964"
-       id="text5-5"
-       transform="scale(0.99705639,1.0029523)"><tspan
-         sodipodi:role="line"
-         id="tspan5-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#5c5c5c;fill-opacity:1;stroke-width:0"
-         x="74.070236"
-         y="50.620964">we cut software to fit</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.98199px;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#403939;fill-opacity:1;stroke:#000000;stroke-width:0"
-       x="254.27658"
-       y="9.8091393"
-       id="text5-5-9"
-       transform="scale(0.99705639,1.0029523)"><tspan
-         sodipodi:role="line"
-         id="tspan5-3-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#5c5c5c;fill-opacity:1;stroke-width:0"
-         x="254.27658"
-         y="9.8091393">sponsored by ...</tspan></text>
+         x="65.764191"
+         y="45.255554">Bit Complete</tspan></text>
     <path
        d="m 35.7474,21.812044 v 15.973797 h -0.0026 l 0.0026,0.0024 V 53.757664 L 19.140842,37.785841 Z"
        fill="#05cbad"
