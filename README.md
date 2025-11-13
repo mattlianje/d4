@@ -5,7 +5,6 @@
 Each library is a simple, powerful building block for writing beautiful, type-safe dataflows. 
 > Solve 90% problems without 900% frameworks
 
-### *d4* Modules
 <div align="center">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 600px; margin: 0 auto;">
   <div style="display: flex; flex-direction: column; align-items: center; width: 160px;">
