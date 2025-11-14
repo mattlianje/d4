@@ -55,35 +55,35 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:Iosevka;-inkscape-font-specification:Iosevka;white-space:pre;shape-inside:url(#rect4);display:inline;opacity:0.235405;fill:#e80003;fill-opacity:0.629259;stroke:#000000;stroke-width:0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.768px;font-family:Avenir;-inkscape-font-specification:Avenir;opacity:0.986817;fill:#5b5b5b;fill-opacity:1;stroke:#000000;stroke-width:0"
-       x="65.764191"
-       y="45.255554"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.6756px;font-family:Avenir;-inkscape-font-specification:Avenir;opacity:0.986817;fill:#5b5b5b;fill-opacity:1;stroke:#000000;stroke-width:0"
+       x="99.777168"
+       y="51.081421"
        id="text5"
-       transform="scale(0.99874038,1.0012612)"><tspan
+       transform="scale(0.99524403,1.0047787)"><tspan
          sodipodi:role="line"
          id="tspan5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#5b5b5b;fill-opacity:1;stroke-width:0"
-         x="65.764191"
-         y="45.255554">Bit Complete</tspan></text>
+         x="99.777168"
+         y="51.081421">Bit Complete</tspan></text>
     <path
-       d="m 35.7474,21.812044 v 15.973797 h -0.0026 l 0.0026,0.0024 V 53.757664 L 19.140842,37.785841 Z"
+       d="M 47.043056,9.7682053 V 40.666775 h -0.005 l 0.005,0.0046 V 71.561526 L 14.951681,40.666775 Z"
        fill="#05cbad"
        id="path1"
-       style="stroke-width:0.0292566" />
+       style="stroke-width:0.0565644" />
     <path
-       d="m 44.049365,29.797392 -8.301996,7.985981 V 21.812044 Z"
+       d="M 63.086204,25.214491 47.042996,40.662001 V 9.7682053 Z"
        fill="#febe36"
        id="path2"
-       style="stroke-width:0.0292566" />
+       style="stroke-width:0.0565644" />
     <path
-       d="m 44.049365,45.774288 -8.301996,7.983454 V 37.788307 Z"
+       d="M 63.086204,56.119055 47.042996,71.561677 V 40.671545 Z"
        fill="#296879"
        id="path3"
-       style="stroke-width:0.0292566" />
+       style="stroke-width:0.0565644" />
     <path
-       d="m 57.889774,37.784749 -8.30313,-7.986955 -8.30289,7.986955 8.30289,7.986956 z"
+       d="M 89.832129,40.664662 73.786729,25.215268 57.741794,40.664662 73.786729,56.114059 Z"
        fill="#dc5a4d"
        id="path4"
-       style="stroke-width:0.0292566" />
+       style="stroke-width:0.0565644" />
   </g>
 </svg>
