@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="fpanim.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.33830416"
+     inkscape:cx="563.10275"
+     inkscape:cy="524.67579"
+     inkscape:window-width="1496"
+     inkscape:window-height="720"
+     inkscape:window-x="59"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#e09587;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#e94d33;stop-opacity:0.25;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="1.5641785"
+       y1="251.04997"
+       x2="97.760895"
+       y2="251.04997"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-298.6584,-195.35947)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#aad5bd;stroke:#000000;stroke-width:0;fill-opacity:0.91528928"
+       id="path1"
+       cx="150.16074"
+       cy="149.7697"
+       rx="148.59656"
+       ry="148.20551" />
+    <text
+       xml:space="preserve"
+       style="font-size:229.784px;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#7872cb;fill-opacity:1;stroke:#000000;stroke-width:0"
+       x="100.95275"
+       y="209.9178"
+       id="text2"
+       transform="scale(0.93360509,1.0711167)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math';fill:#7872cb;fill-opacity:1;stroke-width:0"
+         x="100.95275"
+         y="209.9178">𝛌</tspan></text>
+    <ellipse
+       style="fill:url(#linearGradient4);stroke:#000000;stroke-width:0"
+       id="path3"
+       cx="-248.99588"
+       cy="55.690487"
+       rx="48.098358"
+       ry="47.707314"
+       transform="rotate(-88.616525)" />
+  </g>
+</svg>
