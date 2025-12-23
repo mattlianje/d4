@@ -1,4 +1,4 @@
-# Atomic
+# atomic
 
 ***Atomic*** is a (Scala-focused) collection of zero-dependency, single file libraries you can drop into your project like header files.
 > Solve 90% problems without 900% frameworks
