@@ -1,6 +1,6 @@
-# <img src="pix/d4.png" width="50">  d4
+# a6
 
-***d4*** is a (Scala-focused) collection of zero-dependency, single file libraries you can drop into your project like header files.
+***a6*** is a (Scala-focused) collection of zero-dependency, single file libraries you can drop into your project like header files.
 > Solve 90% problems without 900% frameworks
 
 <div align="center">
