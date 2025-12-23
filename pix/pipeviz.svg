@@ -28,7 +28,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.27960927"
-     inkscape:cx="851.18779"
+     inkscape:cx="851.1878"
      inkscape:cy="67.951967"
      inkscape:window-width="1496"
      inkscape:window-height="965"
@@ -54,11 +54,11 @@
        id="linearGradient16"
        inkscape:collect="always">
       <stop
-         style="stop-color:#6fabd7;stop-opacity:0.99315071;"
+         style="stop-color:#bcd8ec;stop-opacity:0.99315071;"
          offset="0"
          id="stop16" />
       <stop
-         style="stop-color:#277ec3;stop-opacity:0.91095889;"
+         style="stop-color:#3896e3;stop-opacity:0.89041096;"
          offset="1"
          id="stop21" />
     </linearGradient>
@@ -98,7 +98,7 @@
        id="text1"
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000" />
     <ellipse
-       style="opacity:0.7225;fill:url(#linearGradient21);fill-opacity:1;stroke-width:0.286033"
+       style="opacity:0.91;fill:url(#linearGradient21);fill-opacity:1;stroke-width:0.286033"
        id="path5"
        cx="150.10677"
        cy="149.81186"
