@@ -34,7 +34,7 @@
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; width: 160px;">
-    <a href="https://github.com/mattlianje/layoutz/tree/master">
+    <a href="https://github.com/mattlianje/pipeviz/tree/master">
       <img src="https://raw.githubusercontent.com/mattlianje/d4/master/pix/pipeviz.png" alt="pin" width="160" height="160"/>
     </a>
     <p><strong>pipeviz</strong>: easy, elegant lineage</p>
