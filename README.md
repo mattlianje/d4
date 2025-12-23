@@ -1,6 +1,6 @@
-# a6
+# a6 (Atomic)
 
-***a6 (Atomic)*** is a (Scala-focused) collection of zero-dependency, single file libraries you can drop into your project like header files.
+***a6*** is a (Scala-focused) collection of zero-dependency, single file libraries you can drop into your project like header files.
 > Solve 90% problems without 900% frameworks
 
 <div align="center">
