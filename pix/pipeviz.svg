@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.27960927"
-     inkscape:cx="851.1878"
-     inkscape:cy="1126.5721"
+     inkscape:zoom="0.25264132"
+     inkscape:cx="744.13798"
+     inkscape:cy="1155.7888"
      inkscape:window-width="1496"
      inkscape:window-height="965"
      inkscape:window-x="164"
@@ -130,14 +130,14 @@
        id="path35-9-9" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-size:59.5526px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.91;fill:#192126;fill-opacity:0.788044;stroke-width:1.11661"
+       style="font-style:italic;font-size:59.5526px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#090c0e;fill-opacity:0.78804398;stroke-width:1.11661"
        x="183.76602"
        y="135.3009"
        id="text2"
        transform="scale(1.0327707,0.96826916)"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="stroke-width:1.11661"
+         style="stroke-width:1.11661;fill:#090c0e;fill-opacity:0.78804398"
          x="183.76602"
          y="135.3009">𝜆</tspan></text>
   </g>
