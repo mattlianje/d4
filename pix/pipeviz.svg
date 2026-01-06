@@ -128,5 +128,17 @@
        style="fill:#192126;fill-opacity:0.788044;stroke-width:0.159137"
        d="m 130.71099,143.94066 -83.671317,58.66413 -0.840918,0.59861 -0.420458,0.59861 0.420458,0.29931 75.682595,-52.678 7.1478,-4.78891 z"
        id="path35-9-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:59.5526px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.91;fill:#192126;fill-opacity:0.788044;stroke-width:1.11661"
+       x="183.76602"
+       y="135.3009"
+       id="text2"
+       transform="scale(1.0327707,0.96826916)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:1.11661"
+         x="183.76602"
+         y="135.3009">𝜆</tspan></text>
   </g>
 </svg>
