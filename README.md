@@ -7,7 +7,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
  <p align="center">
     <a href="https://github.com/mattlianje/etl4s/tree/master">
       <img src="https://raw.githubusercontent.com/mattlianje/etl4s/master/pix/etl4s-logo.png"
-  alt="etl4s" width="200"/>
+  alt="etl4s" width="160"/>
     </a>
     <br/>
     <b>etl4s</b>: whiteboard etl
@@ -16,7 +16,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
   <p align="center">
     <a href="https://github.com/mattlianje/eztime/tree/master">
       <img src="https://raw.githubusercontent.com/mattlianje/eztime/master/pix/eztime.png"
-  alt="eztime" width="200"/>
+  alt="eztime" width="160"/>
     </a>
     <br/>
     <b>eztime</b>: time, simplified
@@ -25,7 +25,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
   <p align="center">
     <a href="https://github.com/mattlianje/testd/tree/master">
       <img src="https://raw.githubusercontent.com/mattlianje/testd/master/pix/testd-logo.png"
-  alt="testd" width="200"/>
+  alt="testd" width="160"/>
     </a>
     <br/>
     <b>testd</b>: declarative data
@@ -34,7 +34,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
   <p align="center">
     <a href="https://github.com/mattlianje/layoutz/tree/master">
       <img src="https://raw.githubusercontent.com/mattlianje/layoutz/master/pix/layoutz.png"
-  alt="layoutz" width="200"/>
+  alt="layoutz" width="160"/>
     </a>
     <br/>
     <b>layoutz</b>: beautiful CLI
@@ -43,7 +43,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
   <p align="center">
     <a href="https://github.com/mattlianje/pipeviz/tree/master">
       <img src="https://raw.githubusercontent.com/mattlianje/d4/master/pix/pipeviz.png"
-  alt="pipeviz" width="200"/>
+  alt="pipeviz" width="160"/>
     </a>
     <br/>
     <b>pipeviz</b>: easy, elegant lineage
@@ -52,7 +52,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
   <p align="center">
     <a href="https://github.com/mattlianje/pin/tree/master">
       <img src="https://raw.githubusercontent.com/mattlianje/pin/master/pix/pin.png" alt="pin"
-   width="200"/>
+   width="160"/>
     </a>
     <br/>
     <b>pin</b>: code as doc
@@ -62,7 +62,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
     <a href="https://github.com/mattlianje/pg_pipeline/tree/master">
       <img
   src="https://raw.githubusercontent.com/mattlianje/pg_pipeline/master/pix/pg_pipeline.png"
-  alt="pg_pipeline" width="200"/>
+  alt="pg_pipeline" width="160"/>
     </a>
     <br/>
     <b>pg_pipeline</b>: pipelines in Postgres
