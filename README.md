@@ -8,7 +8,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 600px; margin: 0 auto;">
   <div style="display: flex; flex-direction: column; align-items: center; width: 160px;">
     <a href="https://github.com/mattlianje/etl4s/tree/master">
-      <img src="https://raw.githubusercontent.com/mattlianje/etl4s/master/pix/etl4s-logo.png" alt="etl4s" width="160" height="160"/>
+      <img src="https://raw.githubusercontent.com/mattlianje/d4/master/pix/etl4s.svg" alt="etl4s" width="160" height="160"/>
     </a>
     <p><strong>etl4s</strong>: whiteboard etl</p>
   </div>
