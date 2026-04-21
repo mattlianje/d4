@@ -13,6 +13,15 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
     <b>etl4s</b>: whiteboard etl
   </p>
 
+   <p align="center">
+    <a href="https://github.com/mattlianje/ghcitty/tree/master">
+      <img src="https://raw.githubusercontent.com/mattlianje/d4/master/pix/ghcitty.png"
+  alt="ghcitty" width="160"/>
+    </a>
+    <br/>
+    <b>ghcitty</b>: fast, friendly GHCi
+  </p>
+
   <p align="center">
     <a href="https://github.com/mattlianje/eztime/tree/master">
       <img src="https://raw.githubusercontent.com/mattlianje/eztime/master/pix/eztime.png"
