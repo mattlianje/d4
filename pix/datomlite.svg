@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.38513009"
-     inkscape:cx="633.55216"
-     inkscape:cy="582.91992"
+     inkscape:cx="384.28574"
+     inkscape:cy="551.76161"
      inkscape:window-width="1488"
      inkscape:window-height="884"
      inkscape:window-x="74"
@@ -42,11 +42,11 @@
        id="linearGradient6"
        inkscape:collect="always">
       <stop
-         style="stop-color:#090413;stop-opacity:0.90489131;"
+         style="stop-color:#120928;stop-opacity:0.90489131;"
          offset="0"
          id="stop5" />
       <stop
-         style="stop-color:#170242;stop-opacity:0.81506848;"
+         style="stop-color:#190244;stop-opacity:0.81506848;"
          offset="1"
          id="stop6" />
     </linearGradient>
@@ -93,13 +93,13 @@
        x2="178.59453"
        y2="165.55201"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1.2021131,-3.1409042)" />
+       gradientTransform="matrix(1.7077471,0,0,1.7077471,-93.530613,-124.7742)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6"
        id="linearGradient5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4.3305523,-12.486376)"
+       gradientTransform="matrix(1.7077471,0,0,1.7077471,-52.703672,-147.46059)"
        x1="86.636327"
        y1="165.55201"
        x2="178.59453"
@@ -108,13 +108,13 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter5"
-       x="-0.01765901"
-       y="-0.017149748"
-       width="1.035318"
-       height="1.0342995">
+       x="-0.016944397"
+       y="-0.016455744"
+       width="1.0338888"
+       height="1.0329115">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.67662118"
+         stdDeviation="1.1087398"
          id="feGaussianBlur5" />
     </filter>
   </defs>
@@ -143,27 +143,27 @@
          y="133.27748" /></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:151.148px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.9825;fill:url(#linearGradient4);stroke-width:1.77127"
-       x="68.797333"
-       y="222.96626"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:258.123px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.9825;fill:url(#linearGradient4);stroke-width:3.02488"
+       x="21.904922"
+       y="261.35965"
        id="text3"
-       transform="scale(1.1429827,0.87490388)"><tspan
+       transform="scale(1.1505017,0.86918603)"><tspan
          sodipodi:role="line"
          id="tspan3"
-         style="fill:url(#linearGradient4);fill-opacity:0.904891;stroke-width:1.77127"
-         x="68.797333"
-         y="222.96626">±</tspan></text>
+         style="fill:url(#linearGradient4);fill-opacity:0.904891;stroke-width:3.02488"
+         x="21.904922"
+         y="261.35965">±</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:151.148px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.4575;fill:url(#linearGradient5);stroke-width:1.77127;filter:url(#filter5)"
-       x="71.925766"
-       y="213.62076"
-       id="text3-8"
-       transform="matrix(1.1429827,0,0,0.87490388,4.1219822,3.4349866)"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:258.123px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.2525;fill:url(#linearGradient5);stroke-width:3.02488;filter:url(#filter5)"
+       x="62.731865"
+       y="238.67326"
+       id="text3-7"
+       transform="matrix(1.1505017,0,0,0.86918603,-33.662868,11.678955)"><tspan
          sodipodi:role="line"
-         id="tspan3-1"
-         style="fill:url(#linearGradient5);fill-opacity:0.904891;stroke-width:1.77127"
-         x="71.925766"
-         y="213.62076">±</tspan></text>
+         id="tspan3-3"
+         style="fill:url(#linearGradient5);fill-opacity:0.904891;stroke-width:3.02488"
+         x="62.731865"
+         y="238.67326">±</tspan></text>
   </g>
 </svg>
