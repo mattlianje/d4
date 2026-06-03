@@ -23,6 +23,15 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
   </p>
 
   <p align="center">
+    <a href="https://github.com/mattlianje/ghcitty/tree/master">
+      <img src="https://raw.githubusercontent.com/mattlianje/d4/master/pix/datomlite.png"
+  alt="ghcitty" width="160"/>
+    </a>
+    <br/>
+    <b>datomlite</b>: Lightweight, immutable DB
+  </p>
+
+  <p align="center">
     <a href="https://github.com/mattlianje/eztime/tree/master">
       <img src="https://raw.githubusercontent.com/mattlianje/eztime/master/pix/eztime.png"
   alt="eztime" width="160"/>
