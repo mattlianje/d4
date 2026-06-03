@@ -28,7 +28,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
   alt="ghcitty" width="160"/>
     </a>
     <br/>
-    <b>datomlite</b>: Lightweight, immutable DB
+    <b>datomlite</b>: immutable DB
   </p>
 
   <p align="center">
