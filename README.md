@@ -23,7 +23,7 @@ Each library is a simple, powerful building block for writing beautiful, type-sa
   </p>
 
   <p align="center">
-    <a href="https://github.com/mattlianje/ghcitty/tree/master">
+    <a href="https://github.com/mattlianje/datomlite/tree/master">
       <img src="https://raw.githubusercontent.com/mattlianje/d4/master/pix/datomlite.png"
   alt="ghcitty" width="160"/>
     </a>
